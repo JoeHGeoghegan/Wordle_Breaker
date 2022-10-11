@@ -1,6 +1,9 @@
 # Wordle_Breaker
 A tool to solve Wordle, a game hosted by the New York Times, using the pandas python dataframes
 
+## Usage
+The wordlebreaker.ipynb file contains all the code necessary to utilize the below functions.
+
 ## Main tools
 * play(auto_help=True,num_guesses=5)
     * Displays the 10 Best Guesses. Prompts for your guess, then prompts for Wordle's result.
